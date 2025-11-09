@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 yaha kuch b likho magar likho
+=======
+abcdffggfgfgfgf
+>>>>>>> b1
