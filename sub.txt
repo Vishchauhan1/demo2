@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 huhswkewnk
+=======
+hello all i am not giving exam
+>>>>>>> b1
